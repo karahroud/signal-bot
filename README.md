@@ -4,4 +4,5 @@ For example, I think it is better to implement this project in Trading View
 thankful
 
 Signal robot algorithm updatedet coming soon
+waiting
 
